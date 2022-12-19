@@ -17,7 +17,7 @@ I used 4 tables in SQL database. The tables in MS SQL are as follows:
 
 All tables:
 <p align="center">
-  <img src="./Screenshots/db.PNG" width="500px" />
+  <img src="https://github.com/senacaprazli/PaparaApartmentManagementProject/blob/main/Screenshots/db.png" width="500px" />
 </p>
 
 ## 4. Backend
@@ -26,12 +26,12 @@ All tables:
 ###  .NET Web API Project Folders
 
 <p align="center">
-  <img src="https://github.com/senacaprazli/PaparaApartmentManagementProject/blob/main/Screenshots/api.png" width="400px" />
+  <img src="[./Screenshots/api.PNG](https://github.com/senacaprazli/PaparaApartmentManagementProject/blob/main/Screenshots/api.png)" width="400px" />
 </p>
 
 APIs that is used:
 
 <p align="center">
-  <img src="./Screenshots/swagger.PNG" width="1000px" />
+  <img src="https://github.com/senacaprazli/PaparaApartmentManagementProject/blob/main/Screenshots/swagger.png" width="1000px" />
 </p>
 
