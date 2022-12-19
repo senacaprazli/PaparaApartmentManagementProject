@@ -3,9 +3,8 @@ Papara-Patika .Net Core Bootcamp Graduation Project
 
 ## 1. Project Explanation
 Net Core Web API project with site management operations, Net Core MVC project with user registration and login operations.
-You can watch the .Net Core Web API Project Video by clicking [here](https://github.com/serkanalgur/markdown-ogrenin-turkce/blob/master/syntax/links.md) here.
-- [test]: https://www.yemreak.com
-You can watch the .Net Core Web MVC Project Video by clicking here.
+You can watch the .Net Core Web API Project Video by clicking [here](https://www.loom.com/share/83f5170ca6f343efafd63d887979d31e) here.
+You can watch the .Net Core Web MVC Project Video by clicking [here](https://www.loom.com/share/539626de2aa7472bbbbae5ecb6bdd116 )here.
 
 ## 2. Used technologies:
 - C#
