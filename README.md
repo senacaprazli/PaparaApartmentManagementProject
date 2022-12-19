@@ -26,7 +26,7 @@ All tables:
 ###  .NET Web API Project Folders
 
 <p align="center">
-  <img src="[./Screenshots/api.PNG](https://github.com/senacaprazli/PaparaApartmentManagementProject/blob/main/Screenshots/api.png)" width="400px" />
+  <img src="https://github.com/senacaprazli/PaparaApartmentManagementProject/blob/main/Screenshots/api.png" width="400px" />
 </p>
 
 APIs that is used:
